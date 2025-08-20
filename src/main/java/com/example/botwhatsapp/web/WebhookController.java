@@ -39,6 +39,7 @@ public class WebhookController {
     return ResponseEntity.ok().build();
   }
 
+  
   @GetMapping
   public ResponseEntity<String> ping() { return ResponseEntity.ok("ok"); }
 }
