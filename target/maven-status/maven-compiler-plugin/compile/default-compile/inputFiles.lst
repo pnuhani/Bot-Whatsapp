@@ -1,1 +1,5 @@
-/Users/richaarora/Documents/Bot-Whatsapp/src/main/java/com/example/demo/MyappApplication.java
+/Users/richaarora/Documents/Bot-Whatsapp/src/main/java/com/example/botwhatsapp/BotWhatsappApplication.java
+/Users/richaarora/Documents/Bot-Whatsapp/src/main/java/com/example/botwhatsapp/config/AppConfig.java
+/Users/richaarora/Documents/Bot-Whatsapp/src/main/java/com/example/botwhatsapp/config/GupshupProps.java
+/Users/richaarora/Documents/Bot-Whatsapp/src/main/java/com/example/botwhatsapp/service/GupshupClient.java
+/Users/richaarora/Documents/Bot-Whatsapp/src/main/java/com/example/botwhatsapp/web/WebhookController.java

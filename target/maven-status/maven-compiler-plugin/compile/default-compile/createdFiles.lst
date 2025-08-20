@@ -1,1 +1,5 @@
-com/example/demo/MyappApplication.class
+com/example/botwhatsapp/web/WebhookController.class
+com/example/botwhatsapp/BotWhatsappApplication.class
+com/example/botwhatsapp/service/GupshupClient.class
+com/example/botwhatsapp/config/GupshupProps.class
+com/example/botwhatsapp/config/AppConfig.class
